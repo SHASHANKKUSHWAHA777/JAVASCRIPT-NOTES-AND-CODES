@@ -14,7 +14,7 @@ console.log(arr);
 arr.pop() //deletes the last element in the array..
 console.log(arr);
 
-arr.pop(2) //.BETE , POP KE ANDAR KUCH NAHI DETE AAAAHN MERI JAAN , AS ABHI BHI VO LAST ELEMENT HI DELETE KREGA , POP KE BRACKET KE ANDAR KUCH DO YA NA DO
+arr.pop(2) // POP KE ANDAR KUCH NAHI DETE, AS ABHI BHI VO LAST ELEMENT HI DELETE KREGA , POP KE BRACKET KE ANDAR KUCH DO YA NA DO
 console.log(arr);
 
 arr.unshift(9) //unshift aage se element daaldeta h jo tum uske bracket me doge
@@ -47,6 +47,7 @@ console.log(mya1);
 console.log("C ",arr);
 const mya2 = arr.splice(1,3)
 console.log(mya2);
+
 
 
 
